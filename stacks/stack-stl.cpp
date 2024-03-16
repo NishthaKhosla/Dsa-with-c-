@@ -42,7 +42,7 @@ int main()
     books.push(1);
     books.push(2);
     books.push(4);
-    books.push(;
+    books.push(6);
 
     reverse(books);
     insertAtBottom(books, 5);

@@ -40,8 +40,8 @@ int main()
 {
     stack<int> books;
     books.push(1);
+    books.push(3);
     books.push(2);
-    books.push(4);
     books.push(6);
 
     reverse(books);
